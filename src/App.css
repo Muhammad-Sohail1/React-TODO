@@ -1,0 +1,9 @@
+.color{
+  color: yellow;
+  background-color: grey;
+  font-size: 4em;
+  
+  list-style: none;
+  padding: 5px;
+  margin: 9px 0;
+}
